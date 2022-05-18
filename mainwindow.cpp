@@ -20,7 +20,7 @@ MainWindow::MainWindow(QWidget *parent)
     SWin->setWindowTitle("Ввод параметров микросхемы");
 
     connect(SWin, &ParamInp::firstWindow, this, &MainWindow::show);
-    //ui->pushButton_3->setDisabled(1);
+    ui->pushButton_3->setDisabled(1);
 }
 
 MainWindow::~MainWindow()
