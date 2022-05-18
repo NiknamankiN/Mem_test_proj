@@ -12,11 +12,11 @@ Res.qrc - файл ресурсов с картинками, добавленн�
 Для работы проекта необходима версия Qt не ниже 5.1, так как для обмена по UART с микроконтроллером используется библиотека QSerialPort. 
 Изображения интерфейса:  
 mainwindow:  
-![image](https://user-images.githubusercontent.com/59146831/169151049-6bc64eea-2a77-401d-ac93-a1a8af3d75b7.png)
+![image](https://user-images.githubusercontent.com/59146831/169151049-6bc64eea-2a77-401d-ac93-a1a8af3d75b7.png)  
 paraminp:  
-![image](https://user-images.githubusercontent.com/59146831/169151210-ee62fd2e-f778-4e4e-9185-6c01d7c7aef7.png)
+![image](https://user-images.githubusercontent.com/59146831/169151210-ee62fd2e-f778-4e4e-9185-6c01d7c7aef7.png)  
 testwindow:  
-![image](https://user-images.githubusercontent.com/59146831/169151326-63da62c6-9421-41b9-ae63-a97e41175576.png)
+![image](https://user-images.githubusercontent.com/59146831/169151326-63da62c6-9421-41b9-ae63-a97e41175576.png)  
 resultform:  
-![image](https://user-images.githubusercontent.com/59146831/169151566-4dca3b91-354b-4a73-b5c6-e6e07be74077.png)
+![image](https://user-images.githubusercontent.com/59146831/169151566-4dca3b91-354b-4a73-b5c6-e6e07be74077.png)  
 
