@@ -16,8 +16,8 @@ ParamInp::ParamInp(QWidget *parent) :
 
     ui->setupUi(this);
     ui->pushButton_3->setDisabled(1);
-    //ui->pushButton->setDisabled(1);
-    //ui->pushButton_5->setDisabled(1);
+    ui->pushButton->setDisabled(1);
+    ui->pushButton_5->setDisabled(1);
     ui->lineEdit->setReadOnly(1);
     foreach (const QSerialPortInfo &info, QSerialPortInfo::availablePorts())//Проверка соединений по COM порту и добавление найденных
     {                                                                       //в выпадающее меню
