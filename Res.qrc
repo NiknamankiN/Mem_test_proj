@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Pict/amp.png</file>
+        <file>Pict/DOC012171319.jpg</file>
+        <file>Pict/gui_refresh_icon_157047.png</file>
+        <file>Pict/Mem.png</file>
+        <file>Pict/voskl.png</file>
+        <file>Pict/Vsour.jpg</file>
+    </qresource>
+</RCC>
